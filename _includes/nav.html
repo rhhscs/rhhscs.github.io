@@ -1,0 +1,8 @@
+<header>
+  <h2>{{ site.data.samplelist.docs_list_title }}</h2>
+  <ul>
+    {% for nav_link in site.data.nav.links %}  
+      <li><a href="{{ nav_link.url }}">{{ nav_link.title }}</a></li>
+    {% endfor %}
+  </ul>
+</header>

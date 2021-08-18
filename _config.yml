@@ -29,6 +29,22 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
+collections:
+  group_homes:
+    output: true
+
+defaults:
+  - 
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      archived: false
+  -
+    scope: 
+      path: "_group_homes"
+    values:
+      layout: "group_home"
 # Build settings
 theme: minima
 plugins:

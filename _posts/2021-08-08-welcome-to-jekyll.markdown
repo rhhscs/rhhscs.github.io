@@ -1,5 +1,6 @@
 ---
 layout: post
+group: intro
 title:  "Welcome to Jekyll!"
 date:   2021-08-08 01:28:02 -0400
 categories: jekyll update
