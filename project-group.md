@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: group_home
 title: Project
 permalink: /project/
 ---

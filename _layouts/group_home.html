@@ -1,0 +1,20 @@
+---
+layout: default
+---
+
+<h1> {{page.title}} </h1>
+
+{{ page.content }}
+
+<h2>Lessons</h2>
+
+{% for post in site.posts %}
+    {%- if post.group == page.group and post.archived == false -%}
+        <a href="{{ post.url }}">
+            <div class="lesson-container">
+                {{ post.date|date_to_string }}
+                <h3>{{ post.title }}</h3>
+            </div>
+        </a>
+    {%- endif -%}
+{% endfor %}
