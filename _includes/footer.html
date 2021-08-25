@@ -1,3 +1,7 @@
 <footer>
-    <!-- still need to include social stuff in footer -->
+    <ul>
+        {% for social in site.data.socials.socials %}  
+          <li><a href="{{ social.link }}">{{ social.name }}</a></li>
+        {% endfor %}
+      </ul>
 </footer>
