@@ -1,9 +1,13 @@
 socials:
 - name: Github
   link: https://github.com/rhhscs
+  class: bi-github
 - name: Instagam
   link: https://www.instagram.com/rhhs.cs.club/
+  class: bi-instagram
 - name: Discord
   link: https://discord.com/invite/2jG2jXk
+  class: bi-discord
 - name: Email
   link: mailto:rhhs.compsci@gmail.com
+  class: bi-envelope

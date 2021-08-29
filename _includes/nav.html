@@ -1,8 +1,23 @@
+
 <header>
-  <h2>{{ site.data.samplelist.docs_list_title }}</h2>
-  <ul>
-    {% for nav_link in site.data.nav.links %}  
-      <li><a href="{{ nav_link.url }}">{{ nav_link.title }}</a></li>
-    {% endfor %}
-  </ul>
+  <nav class="navbar navbar-expand-lg navbar-dark bg-transparent">
+
+    <div class="container">    
+      <div class="d-flex flex-column align-items-center w-100">
+        <a class="navbar-brand" href="/">
+          <img class="mw-100" src="/assets/images/logo_white.png">
+        </a>
+        <ul class="navbar-nav flex-row flex-wrap justify-content-center">
+          {% for nav_link in site.data.nav.links %}  
+            <li class="nav-item ms-3"><a href="{{ nav_link.url }}" class="nav-link">{{ nav_link.title }}</a></li>
+          {% endfor %}
+        </ul>
+
+      </div>
+    </div>
+
+  </nav>
 </header>
+
+
+  
