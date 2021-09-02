@@ -4,15 +4,14 @@ permalink: /web/
 group: web
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+# Web 
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+This group will be run by Darren Lo and Amun Ahmad. We will go through an overview of web development in both the perspectives of front end and backend.
 
 
-[jekyll-organization]: https://github.com/jekyll
+## Topics
+- Node JS
+- React
+- Random Cool Projects
+
+We recommend that you have taken atleast one computer science course or have some previous knowledge of programming
