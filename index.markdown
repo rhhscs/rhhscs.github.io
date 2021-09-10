@@ -10,5 +10,5 @@ The RHHS computer science club is an all-inclusive club run by student executive
 
 For any further questions or inquiries, please contact us by email ([rhhs.compsci@gmail.com](mailto:rhhs.compsci@gmail.com)) or through instagram ([@rhhs.cs.club](https://www.instagram.com/rhhs.cs.club/)).
 
-### Sign Up 
-[Link](https://docs.google.com/forms/d/e/1FAIpQLSeSb2WMS8UmrsDe--IHwGwXlDycZwyZGoqATn6dwwwS1b_xng/viewform?usp=sf_link)
+### Want to join CS club?
+Sign up [here](https://docs.google.com/forms/d/e/1FAIpQLSeSb2WMS8UmrsDe--IHwGwXlDycZwyZGoqATn6dwwwS1b_xng/viewform?usp=sf_link)
