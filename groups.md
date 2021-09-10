@@ -11,5 +11,3 @@ This group was created for students who are looking to prepare for the upcoming 
 
 ## Web
 This group is perfect for students who have an adequate amount of experience in their programming skills, such as those who have finished the intro group, or completed any computer science course (e.g. ICS2O, ICS3U). Students will learn more advanced concepts with experienced executives and will be familiar with designing websites and web applications at the end of the year.
-
-[Sign Up Here](https://docs.google.com/forms/d/e/1FAIpQLSeSb2WMS8UmrsDe--IHwGwXlDycZwyZGoqATn6dwwwS1b_xng/viewform?usp=sf_link)
