@@ -6,7 +6,7 @@ layout: home
 ---
 Welcome to the official website for the RHHS computer science club!
 
-The RHHS computer science club is an all-inclusive club run by student executives, aimed at exposing its members to the world of programming. Club meetings occur weekly on Thursdays after school, in the library from 3:10 to 4:10. Our members are able to choose which group they believe aligns the most with their goals: intro, contest, or web. More information on these groups can be found in the tabs above.
+The RHHS computer science club is an all-inclusive club run by student executives, aimed at exposing its members to the world of programming. Club meetings occur weekly on Thursdays after school, in the library from 4:00 to 5:00. Our members are able to choose which group they believe aligns the most with their goals: intro, contest, or web. More information on these groups can be found in the tabs above.
 
 For any further questions or inquiries, please contact us by email ([rhhs.compsci@gmail.com](mailto:rhhs.compsci@gmail.com)) or through instagram ([@rhhs.cs.club](https://www.instagram.com/rhhs.cs.club/)).
 
