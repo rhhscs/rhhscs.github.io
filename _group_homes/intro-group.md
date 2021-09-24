@@ -6,7 +6,7 @@ group: intro
 
 # Intro to programming
 
-This group will be run by Peter Gu, Preston Tom-Ying, and Ivy Luo
+This group will be run by Peter Gu and Preston Tom-Ying
 
 We will mainly focus on learning basic programming topics — specifically focusing on Javascript
 
