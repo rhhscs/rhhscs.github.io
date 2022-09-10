@@ -6,7 +6,7 @@ group: web
 
 # Web 
 
-This group will be run by Darren Lo and Amun Ahmad. We will go through an overview of web development in both the perspectives of front end and backend.
+This group will be run by Edison Du and Andrew Chu. We will go through an overview of web development in both the perspectives of front end and backend.
 
 
 ## Topics
