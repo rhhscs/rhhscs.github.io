@@ -16,3 +16,6 @@ We will mainly focus on learning basic programming topics — specifically focus
 - HTML and CSS
 
 No programming experience is required so feel free to come learn & have fun!
+
+# Lessons
+[Lesson 1](https://drive.google.com/file/d/15zVHUBYWUBaGY6QEMcWG7Gef7JttB4q8/view?usp=sharing)
