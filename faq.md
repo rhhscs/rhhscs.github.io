@@ -5,7 +5,7 @@ permalink: /faq
 ---
 # Frequently Asked Questions
 #### How do I join CS club?
-Join our [Google Classroom](https://classroom.google.com/c/Mzk3MjgzNjk3Mzg2?cjc=6bzuaye) (class code: `6bzuaye`, make sure you're using gapps), follow us on Instagram [@rhhs.cs.club](https://www.instagram.com/rhhs.cs.club/) for updates, and sign up for our mailing list [here](https://forms.gle/x4TERNVfZTw7kih89)!
+Join our [Google Classroom](https://classroom.google.com/c/Mzk3MjgzNjk3Mzg2?cjc=6bzuaye) (class code: `6bzuaye`, make sure you're using gapps), follow us on Instagram [@rhhs.cs.club](https://www.instagram.com/rhhs.cs.club/) for updates, and join our [Discord](https://discord.gg/85UAj7uZY)!
 #### I'm a beginner/don't know how to code, can I still join CS club?
 Yes! We have [an intro group](/intro) that aims to teach beginners how to code!
 #### When and where is CS club?
