@@ -3,7 +3,7 @@ layout: page
 title: Groups
 permalink: /groups/
 ---
-## Intro
+## Game Dev
 This is a beginner-oriented group designed to teach students with little to no programming experience from scratch. Students will learn the basics of programming with JavaScript, and will apply their knowledge through various fun projects!
 
 ## Contest
