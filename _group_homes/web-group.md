@@ -14,6 +14,6 @@ This group will be run by Harry Xu and Mithulan Nanthakumar. We will go through 
 - JS
 - Random Cool Projects
 
-No coding experience is required
+No coding experience is required.
 ## Lessons
 <a href="https://drive.google.com/file/d/1vPk0NyEQCbX81rT_eTuD80q6Qh5bzKRP/view?usp=sharing" target="_blank">Lesson 1</a> 
