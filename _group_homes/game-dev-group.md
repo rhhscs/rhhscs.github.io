@@ -6,7 +6,7 @@ group: game-dev
 
 # Game Dev Group
 
-This group will be run by Ilya Kononov and Laison Tao
+This group will be run by Ilya Kononov and Laison Tao.
 
 We will be focused on learning how to make games from scratch using the Unity game engine.
 
