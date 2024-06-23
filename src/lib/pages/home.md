@@ -3,7 +3,7 @@ title: RHHS CS Club
 description: Welcome to the official website for the RHHS Computer Science Club!
 ---
 
-## Hello World
+## `Hello World!`
 
 **Welcome to the official website for the RHHS Computer Science Club!**
 
