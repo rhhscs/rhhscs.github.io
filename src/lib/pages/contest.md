@@ -10,7 +10,8 @@ This year, we have **two contest groups**, each targeting a specific level.
 ### Junior Contest
 
 This group is targeted towards programmers with **little or no experience with programming**. This group will act as an introduction to the world of competitive programming.
-Students will learn about **basic data structures and algorithms**, which will help prepare them for the **University of Waterloo's CCC Junior Contest**.
+Students will learn about **basic data structures and algorithms**, which will help prepare them for the **University of Waterloo's CCC Junior Contest**. 
+This group will primarily use **Java and/or Python**.
 
 ### Senior Contest
 
