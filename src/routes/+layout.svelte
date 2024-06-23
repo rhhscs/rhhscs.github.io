@@ -34,8 +34,21 @@
 		align-items: center;
 	}
 
+	header picture {
+		padding: 2rem;
+		padding-bottom: 0;
+	}
+
 	main {
 		max-width: 54rem;
 		margin: 0 auto;
+		padding: 1rem;
+	}
+
+	@media (max-width: 500px) {
+		header picture img {
+			width: 100%;
+			height: 100%;
+		}
 	}
 </style>

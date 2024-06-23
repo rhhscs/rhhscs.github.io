@@ -38,4 +38,26 @@
 		color: inherit;
 		text-decoration: none;
 	}
+
+	@media (max-width: 756px) {
+		.nav__links {
+			gap: 1rem;
+		}
+	}
+
+	@media (max-width: 600px) {
+		.nav__links {
+			font-size: 0.9rem;
+		}
+	}
+
+	@media (max-width: 550px) {
+		.nav__links {
+			padding: 0;
+			margin-top: 2rem;
+			flex-direction: column;
+			gap: 0.75rem;
+			font-size: 1rem;
+		}
+	}
 </style>

@@ -32,6 +32,10 @@ const routes: Route[] = [
 		title: "Events",
 		url: "/events",
 	},
+	{
+		title: "Results",
+		url: "/results",
+	},
 ];
 
 export default routes;
