@@ -1,0 +1,1 @@
+const t=[{title:"Home",url:"/"},{title:"FAQ",url:"/faq"},{title:"Groups",url:"/groups"},{title:"Contest",url:"/contest"},{title:"Web",url:"/web"},{title:"Workshops",url:"/workshops"},{title:"Events",url:"/events"},{title:"Results",url:"/results"}];export{t as r};
