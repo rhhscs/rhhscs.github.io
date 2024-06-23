@@ -5,12 +5,18 @@
 	import "../app.scss";
 	import Navbar from "$lib/components/Navbar.svelte";
 	import routes from "$lib/routes/routes";
-  import Footer from "$lib/components/Footer.svelte";
+  	import Footer from "$lib/components/Footer.svelte";
+	// @ts-ignore
+	import Logo from "$lib/images/logo_white.png?enhanced&w=1280;640;400";
 </script>
+
+<svelte:head>
+	<meta property="og:image" content={Logo.img.src}>
+</svelte:head>
 
 <header>
 	<enhanced:img
-		src="/static/images/logo_white.png?w=1280;640;400"
+		src={Logo}
 		alt="RHHS Computer Science Club"
 		sizes="(min-width:1920px) 1280px, (min-width:1080px) 640px, (min-width:768px) 400px"
 	/>

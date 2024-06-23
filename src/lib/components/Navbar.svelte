@@ -30,7 +30,7 @@
 	.nav__links li {
 		transition: transform 200ms ease-in;
 		&:hover {
-			transform: translateY(-4px);
+			transform: translateY(-2px);
 		}
 	}
 
