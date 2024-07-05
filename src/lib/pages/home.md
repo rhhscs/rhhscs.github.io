@@ -13,4 +13,4 @@ For any further questions or inquiries, please contact us by email ([rhhs.compsc
 
 ### Want to join CS club?
 
-Sign up [here](https://forms.gle/FwiY1PihpVVfb3Gf6) and [join our Google Classroom](https://classroom.google.com/c/Mzk3MjgzNjk3Mzg2?cjc=6bzuaye) (invite code is **`6bzuaye`**, join from GAPPS)!
+Sign up [here](https://forms.gle/J3s6v26XUEduvRvx8) and [join our Google Classroom](https://classroom.google.com/c/Mzk3MjgzNjk3Mzg2?cjc=6bzuaye) (invite code is **`6bzuaye`**, join from GAPPS)!
